@@ -1,0 +1,9 @@
+#fondo-contenedor{
+  background-color: rgba(238, 238, 238, 0.5);
+}
+body{
+   background-image: url("../img/fondo.jpg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size:cover;
+}

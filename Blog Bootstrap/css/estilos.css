@@ -1,0 +1,10 @@
+body{
+  background-color: #ECECFB;
+}
+.sociales ul{
+  list-style: none;
+  float:right;
+}
+.sociales ul li img{
+  width: 36px;
+}
